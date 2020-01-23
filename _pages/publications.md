@@ -3,8 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from: 
-  - https://www.researchgate.net/profile/Yuchuan_Luo2
 ---
 
 {% if author.googlescholar %}
