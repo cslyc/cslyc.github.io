@@ -12,4 +12,4 @@ This presents a privacy-preserving distinct counting scheme for mobile sensing.
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
-Recommended citation: Yang, Xiaochen & Xu, Ming & Fu, Shaojing & Luo, Yuchuan. (2019). PPDC: A Privacy-Preserving Distinct Counting Scheme for Mobile Sensing. Applied Sciences. 9. 3695. 10.3390/app9183695.
+<!-- Recommended citation: Yang, Xiaochen & Xu, Ming & Fu, Shaojing & Luo, Yuchuan. (2019). PPDC: A Privacy-Preserving Distinct Counting Scheme for Mobile Sensing. Applied Sciences. 9. 3695. 10.3390/app9183695. -->
