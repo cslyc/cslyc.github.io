@@ -1,9 +1,9 @@
 ---
-title: "大学计算机基础（2019秋）"
+title: "Introduction to Computer, Autumn, 2019"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2019-autumn-teaching-1
-venue: "国防科大, 计算机学院"
+venue: "NUDT, College of Computer"
 date: 2019-10-08
 location: "Changsha, China"
 ---
